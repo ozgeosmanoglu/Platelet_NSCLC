@@ -1,0 +1,6 @@
+This folder has 3 different dataframes:
+
+1. myDGEList --> raw DGEList
+2. myDGElistFilt --> after filtering low counts
+3. myDGEListColl --> after collapsing technical replicates
+4. myDGElistFiltF --> after filtering outlier samples
